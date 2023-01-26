@@ -3,6 +3,10 @@ uuid = "a2dd09d9-8cd8-4b91-af2e-7800b7b27c0e"
 authors = ["Josh Day <emailjoshday@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Cobweb = "ec354790-cf28-43e8-bb59-b484409b7bad"
+
 [compat]
 julia = "1"
 

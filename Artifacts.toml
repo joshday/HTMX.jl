@@ -1,0 +1,6 @@
+[HTMX]
+git-tree-sha1 = "ca961724909f7e2af60c91e18bba0d5c45d158e7"
+
+    [[HTMX.download]]
+    sha256 = "d611a3cc9272676bd3571ce437f29a2f975af1063e1d339b2e266ab201c292c6"
+    url = "https://gist.github.com/joshday/ad62032eddb70fc7af3e5267f8f1d98f/raw/ca961724909f7e2af60c91e18bba0d5c45d158e7.tar.gz"
