@@ -16,6 +16,7 @@ function hx(o::Cobweb.Node; kw...)
     for (k,v) in kw
         setproperty!(o, Symbol("hx-$k"), v)
     end
+    o
 end
 
 end
