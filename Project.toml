@@ -8,6 +8,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 Cobweb = "ec354790-cf28-43e8-bb59-b484409b7bad"
 
 [compat]
+Cobweb = "0.3"
 julia = "1"
 
 [extras]
